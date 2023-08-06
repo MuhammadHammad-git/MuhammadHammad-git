@@ -1,3 +1,4 @@
+![GitHub Card (Updated)](https://github.com/MuhammadHammad-git/MuhammadHammad-git/assets/74261526/2ab16487-9fdc-4a41-be68-ba082533aee5)
 - 👋 **Hi, I’m Muhammad Hammad**
 - 👀 **I’m actively looking for a job in Machine learning and Software Development**
 - 🌱 **I’m proficient in C, C++ and Python**
@@ -9,8 +10,6 @@
 - **_Software Developer, Machine learning, Data analyst or Data Scientist_**
 - I am a fresh grad and I can adapt and learn more languages if required by the company
 - Wanna Follow or Connect Here> https://www.linkedin.com/in/muhammad-hammad-87787421a/
-  
-![GitHub Card (Updated)](https://github.com/MuhammadHammad-git/MuhammadHammad-git/assets/74261526/2ab16487-9fdc-4a41-be68-ba082533aee5)
 
 <!---
 MuhammadHammad-git/MuhammadHammad-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
