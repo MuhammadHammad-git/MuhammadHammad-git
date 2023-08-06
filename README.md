@@ -7,7 +7,7 @@
 - 📫 You can reach me through **muhammadhammad.javeed0@gmail.com** or
 - on my **LinkedIn** for **_Full time job_** or **_trainee leading to job position_** on 
 - **_Software Developer, Machine learning, Data analyst or Data Scientist_**
-- I am a fresh grad and I can adapt and learn for the betterment of the company
+- I am a fresh grad and I can adapt and learn more languages if required by the company
 
 <!---
 MuhammadHammad-git/MuhammadHammad-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
