@@ -2,6 +2,7 @@
 - 👋 **Hi, I’m Muhammad Hammad**
 - 👀 **I’m actively looking for a job in Machine learning and Software Development**
 - 🌱 **I’m proficient in C, C++ and Python**
+- 🌟 **I have done various projects, and have participated in global Programming competitions like IEEExtreme to hone my code algorithm skills with high optimization and readability**
 - 💞️ **I have done project using sklearn, pandas, pytorch, tenserflow and tflite**
 - 🎮 **I have already deployed on tflite models on Raspberry pi 4B for our Final Year Project!**
 - 🏃‍♂️ **Now a days, I am reaching my goal of becoming a 100+ WPM touch typist (50+ wpm🤩 now)**
