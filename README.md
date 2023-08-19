@@ -2,7 +2,7 @@
 - 👋 **Hi, I’m Muhammad Hammad**
 - 👀 **I’m actively looking for a job in Machine learning or Software Development**
 - 🌱 **I’m proficient in C++, C, Python and Java. and now continue to learn SQL and MOJO**
-- 🌟 **I have done various projects, with also participating in global Programming competitions, like _IEEExtreme_, to hone my algorithm writing skills with high code optimization and readability**
+- 🌟 **I have done various projects, and participated in global Programming competitions, like _IEEExtreme_, to hone my algorithm writing skills with high code optimization and readability**
 - 💞️ **As an AI enthusiast and a Student, I have done projects using ML libraries like sklearn, pandas, pytorch, tenserflow and tflite**
 - 🎢 **I have already deployed on tflite models on microcontroller Raspberry pi 4B for our Final Year Project!**
 - 🎮 **I created a Eye Testing Game called _"snell"_. As our Final Year Project, and this was my first game and it made me addicted to game development**
