@@ -1,7 +1,7 @@
 ![GitHub Card (Updated)](https://github.com/MuhammadHammad-git/MuhammadHammad-git/assets/74261526/2ab16487-9fdc-4a41-be68-ba082533aee5)
 - 👋 **Hi, I’m Muhammad Hammad**
-- 👀 **I’m actively looking for a job in Machine learning or Software Development**
-- 🌱 **I’m proficient in C++, C, Python and Java. and now continue to learn SQL and MOJO**
+- 👀 **I’m actively looking for a job in Machine learning or Python Software Development**
+- 🌱 **I’m proficient in Python, SQL, C++, C, Java and Javascript. and now continue to learn advanced SQL, django and flask**
 - 🌟 **I have done various projects, and participated in global Programming competitions, like _IEEExtreme_, Placing top 1477th globally to hone my algorithm writing skills with high code optimization and readability**
 - 💞️ **As an AI enthusiast and a Student, I have done projects using ML libraries like sklearn, pandas, pytorch, tenserflow and tflite**
 - 🎢 **I have already deployed on tflite models on microcontroller Raspberry pi 4B for our Final Year Project!**
