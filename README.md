@@ -7,8 +7,7 @@
 - 🎢 **I have already deployed on tflite models on microcontroller Raspberry pi 4B for our Final Year Project!**
 - 🎮 **I created a Eye Testing Game called _"snell"_. As our Final Year Project, and this was my first game and it made me addicted to game development**
 - 🏃‍♂️ **Now a days, I am reaching my goal of becoming a 100+ WPM touch typist (50+ wpm🤩 now)**
-- 📫 You can reach me through **muhammadhammad.javeed0@gmail.com** OR
-- on my **LinkedIn** for **_Full time job_** or **_trainee leading to job position_** on
+- 📫 You can reach me through **muhammadhammad.javeed0@gmail.com** OR on my **LinkedIn** for **_Full time job_** or **_trainee leading to job position_** on
 **_AI Developer, Machine learning Developer, Computer Vision Engineer or Data Scientist posts_** 
 - I am a fresh grad and I can adapt and learn more languages if required by the company
 - Wanna Follow or Connect Here> https://www.linkedin.com/in/muhammad-hammad-87787421a/
