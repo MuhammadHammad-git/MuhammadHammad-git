@@ -9,7 +9,7 @@
 - 🏃‍♂️ **Now a days, I am reaching my goal of becoming a 100+ WPM touch typist (50+ wpm🤩 now)**
 - 📫 You can reach me through **muhammadhammad.javeed0@gmail.com** OR
 - on my **LinkedIn** for **_Full time job_** or **_trainee leading to job position_** on
-**_Software Developer, Machine learning, Data analyst or Data Scientist posts_** 
+**_AI Developer, Machine learning Developer, Computer Vision Engineer or Data Scientist posts_** 
 - I am a fresh grad and I can adapt and learn more languages if required by the company
 - Wanna Follow or Connect Here> https://www.linkedin.com/in/muhammad-hammad-87787421a/
 - Having a young mind with new ideas and methods will have a huge impact on the mentality of your employees and their workspace!
