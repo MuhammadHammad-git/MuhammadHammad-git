@@ -3,10 +3,10 @@
 - 🤖 AI Automation Engineer @ Systems Limited  
 - ⚙️ Building automation systems, API integrations, and ML-driven solutions for real-world business workflows  
 
-- 💻 Tech Stack: Python, SQL, Machine Learning, Automation, REST APIs  
-  Familiar with: Django, Flask, C++, JavaScript  
+- 💻 Tech Stack: Azure AI, Bot Framework, microsoft power platform, Python, SQL, Machine Learning, Automation, REST APIs  
+  Familiar with: Cosmo, Azure Function App, Django, Flask, C++, JavaScript  
 
-- 🧠 AI & ML: Experience with PyTorch, TensorFlow, scikit-learn, pandas  
+- 🧠 AI & ML: Experience with langchain, azureaiservices, PyTorch, TensorFlow, scikit-learn, pandas  
   → Deployed ML models (including TensorFlow Lite on Raspberry Pi)  
 
 - 🚀 Projects:  
