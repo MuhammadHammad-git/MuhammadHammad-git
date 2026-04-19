@@ -9,13 +9,15 @@
 - 🧠 AI & ML: Experience with langchain, azureaiservices, PyTorch, TensorFlow, scikit-learn, pandas  
   → Deployed ML models (including TensorFlow Lite on Raspberry Pi)  
 
-- 🚀 Projects:  
+- 🚀 Projects: 
+  - Agentic tool calling
+  - Agent Worflows 
   - ML-based automation systems  
   - *Snell* — eye-testing game (Final Year Project)  
 
 - 🏆 Competitive Programming: IEEEXtreme participant (global rank ~1477), focused on optimization & clean code  
 
-- 🎓 Education: Information Technology University (Computer Science)  
+- 🎓 Education: Information Technology University (Electrical Engineering)  
 
 - 📜 Certifications:  
   - Microsoft Certified: Azure Fundamentals  
